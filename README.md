@@ -1,3 +1,11 @@
+# NOTEICE
+
+I am not the original owner of this repository. I will not be maintaining this. The original owner is no longer on github, and im posting this here for Archival use. 
+
+
+
+
+
 # May 2020 Notice
 
 For many games this script is not needed anymore, and may soon not be needed at all.
