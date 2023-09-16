@@ -1,4 +1,4 @@
-# NOTEICE
+# NOTICE
 
 I am not the original owner of this repository. I will not be maintaining this. The original owner is no longer on github, and im posting this here for Archival use. 
 
